@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi，我是 Felix 👋
 
-<!--
-**hustszf/hustszf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**关注业务数字化、数据分析与 AI 应用。**
 
-Here are some ideas to get you started:
+我喜欢从具体的业务问题出发，把复杂流程梳理清楚，通过数据分析找到改进方向，再把想法做成可以体验的工具。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我关注的方向
+
+- **业务数字化**：梳理业务流程、运营指标与跨平台协作，让需求更清晰、执行更顺畅。
+- **数据分析**：探索经营诊断与分析模型，用数据理解问题、支持判断。
+- **AI 应用**：将 AI 用于需求分析、交互原型和日常工作自动化。
+- **知识管理**：使用 Obsidian 与 GitHub 记录思考、积累经验，并持续迭代。
+
+## 最近在实践
+
+- 将业务需求转化为 HTML 交互原型，让想法可以被体验和讨论。
+- 使用 GitHub Actions 与 Cloudflare Pages，实现网页的自动发布。
+- 探索从业务文档、数据分析到工具实现的工作流程。
+
+## 我的工作方式
+
+理解问题 → 梳理流程 → 数据验证 → 原型实现 → 持续迭代
+
+希望让技术成为解决实际问题的工具，也让每一次实践留下可以复用的经验。
+
+欢迎交流业务分析、AI 应用与知识管理。
